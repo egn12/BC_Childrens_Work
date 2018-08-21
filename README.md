@@ -1,4 +1,4 @@
-# BC Childrens Work
+# BC Children's Work
 Work I did as a Graduate Research Assistant for the BC Children's Hospital Foundation Analytics Team. The jupyter notebooks are organized as follows:
 
 **1. Cleaning and Geocoding**

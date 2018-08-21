@@ -4,11 +4,11 @@ Work I did as a Graduate Research Assistant for the BC Children's Hospital Found
 **1. Cleaning and Geocoding**
   - Cleaning & Aggregating data from different databases at the postal code level 
   - Adding a Lat/Long to each postal code through Google API 
-  - Placing each postal code within a Neighbourhood using shapefiles 
+  - Placing each BC postal code within a neighbourhood using shapefiles 
   
 **2. EDA and Prediction** 
    - Exploring the dataset relationships (correlation matrix, plotting) 
-   - Running prediction analysis on 2016 contributions: 
+   - Running prediction analysis on 2016 hospital donations: 
       * Multivariate Regression 
       * Multivariate Regression with PCA regressors 
       * Random Forest 

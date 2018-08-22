@@ -16,3 +16,4 @@ Work I did as a Graduate Research Assistant for the BC Children's Hospital Found
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC 
 ![Screenshot](Vancouver_heatmap.PNG)
+![Screenshot](Vancouver_heatmap.PNG)

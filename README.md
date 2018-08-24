@@ -1,5 +1,5 @@
 # BC Children's Work
-Work I did as a Graduate Research Assistant for the BC Children's Hospital Foundation Analytics Team. The jupyter notebooks are organized as follows:
+Work I'm doing as a Graduate Research Assistant for the BC Children's Hospital Foundation Analytics Team. The jupyter notebooks are organized as follows:
 
 **1. Cleaning and Geocoding**
   - Cleaning & Aggregating data from different databases at the postal code level 
@@ -12,6 +12,7 @@ Work I did as a Graduate Research Assistant for the BC Children's Hospital Found
       * Multivariate Regression 
       * Multivariate Regression with PCA regressors 
       * Random Forest 
+      * AutoML
       
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC 

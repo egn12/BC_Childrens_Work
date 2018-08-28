@@ -19,4 +19,4 @@ The jupyter notebooks are organized as follows:
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC 
 ![Screenshot](Vancouver_heatmap.PNG)
-![Screenshot](chloropleth_all_bc.PNG)
+![Screenshot](chloropleth_all_bc_1.PNG)

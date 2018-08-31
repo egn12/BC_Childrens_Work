@@ -8,7 +8,7 @@ The jupyter notebooks are organized as follows:
   - Adding a Lat/Long to each postal code through Google API 
   - Placing each BC postal code within a neighbourhood using shapefiles 
   
-**2. EDA and Prediction** 
+**2. EDA and Prediction (Manifold)** 
    - Exploring the dataset relationships (correlation matrix, plotting) 
    - Running prediction analysis on 2016 hospital donations: 
       * `Multivariate Regression` 

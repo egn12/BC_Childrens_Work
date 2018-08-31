@@ -17,6 +17,6 @@ The jupyter notebooks are organized as follows:
       * `Boosting`
       
 **3. Visualizations**
-  - Heatmap and Chloropleth for donation + demographic data accross BC ; prelimiary to interactive map using javascript 
+  - Heatmap and Chloropleth for donation + demographic data accross BC ; blueprint for dashboard created using javascript + D3
 ![Screenshot](Vancouver_heatmap.PNG)
 ![Screenshot](chloropleth_all_bc_1.PNG)

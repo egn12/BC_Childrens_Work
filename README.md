@@ -15,6 +15,7 @@ The jupyter notebooks are organized as follows:
       * `Multivariate Regression with PCA regressors`
       * `Random Forest` 
       * `Boosting`
+      
 **3. Churn (Retention Rates) Analysis (2016/17)**
 
 **3. Visualizations**

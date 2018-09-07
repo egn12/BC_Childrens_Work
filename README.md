@@ -15,7 +15,8 @@ The jupyter notebooks are organized as follows:
       * `Multivariate Regression with PCA regressors`
       * `Random Forest` 
       * `Boosting`
-      
+**3. Churn (Retention Rates) Analysis (2016/17)**
+
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC ; blueprint for dashboard created using javascript + D3
 ![Screenshot](Vancouver_heatmap.PNG)

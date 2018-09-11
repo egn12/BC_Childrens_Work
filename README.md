@@ -1,5 +1,5 @@
 # BC Children's Work
-Work I'm doing as a Graduate Research Assistant for the BC Children's Hospital Foundation Analytics Team. The goal of the Foundation is to enhance the resources provided to the hospital by the Provincial Governemnt in order to provide better services. 
+Work I'm doing as a Summer Data Scientist for the BC Children's Hospital Foundation Analytics Team. The goal of the Foundation is to enhance the resources provided to the hospital by the Provincial Governemnt in order to provide better services to children and youth throughout the province. 
 
 The jupyter notebooks are organized as follows:
 

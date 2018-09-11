@@ -17,9 +17,9 @@ The jupyter notebooks are organized as follows:
       * `Boosting`
       
 **3. Churn (Retention Rates) Analysis (2016/17)**
-    - EDA 
-    - Classification of individuals by rentention rates
-    - Deployment of model to Microsoft Azure
+   - EDA 
+   - Classification of individuals by rentention rates
+   - Deployment of model to Microsoft Azure
 
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC ; blueprint for dashboard created using javascript + D3

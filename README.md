@@ -9,13 +9,12 @@ The jupyter notebooks are organized as follows:
   - Placing each BC postal code within a neighbourhood using shapefiles 
   
 **2. EDA and Prediction (Manifold)** 
-   - Exploring the dataset relationships (correlation matrix, plotting) 
+   - Exploring the dataset relationships (correlation matrix, plotting). For example, looking at our recency and frenquency variables:
    ![Screenshot](output_20_1.png)
    - Running prediction analysis on 2016 hospital donations: 
       * `Multivariate Regression` 
       * `Multivariate Regression with PCA regressors`
       * `Random Forest` 
-         ![Screenshot](output_34_0.png)
       * `Boosting`
       
 **3. Churn (Retention Rates) Analysis (2016/17)**

@@ -10,10 +10,12 @@ The jupyter notebooks are organized as follows:
   
 **2. EDA and Prediction (Manifold)** 
    - Exploring the dataset relationships (correlation matrix, plotting) 
+   ![Screenshot](output_20_1.PNG)
    - Running prediction analysis on 2016 hospital donations: 
       * `Multivariate Regression` 
       * `Multivariate Regression with PCA regressors`
       * `Random Forest` 
+         ![Screenshot](output_34_0.PNG)
       * `Boosting`
       
 **3. Churn (Retention Rates) Analysis (2016/17)**

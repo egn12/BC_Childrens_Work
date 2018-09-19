@@ -18,7 +18,7 @@ The jupyter notebooks are organized as follows:
       * `Random Forest` 
       * `Boosting`
       * `Feature Importance`
-      ![Screenshot](output_20_1.png)
+      ![Screenshot](output_34_0.png)
 **3. Churn (Retention Rates) Analysis (2016/17)**
    - EDA 
    - Classification of individuals by rentention rates

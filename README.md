@@ -10,18 +10,19 @@ The jupyter notebooks are organized as follows:
   - Placing each BC postal code within a neighbourhood using shapefiles 
   
 **2. EDA and Prediction (Manifold)** 
-   - Exploring the dataset relationships (correlation matrix, plotting). For example, looking at our recency and frenquency variables:
-   ![Screenshot](output_20_1.png)
+   - Exploring the dataset relationships (correlation matrix, plotting). 
    - Running prediction analysis on 2016 hospital donations: 
       * `Multivariate Regression` 
       * `Multivariate Regression with PCA regressors`
       * `Random Forest` 
       * `Boosting`
       * `Feature Importance`
-      ![Screenshot](output_34_0.png)
+
 **3. Churn (Retention Rates) Analysis (2016/17)**
-   - EDA 
+   - EDA. For example, looking at our recency and frenquency variables:
+   ![Screenshot](output_20_1.png)
    - Classification of individuals by rentention rates
+         ![Screenshot](output_34_0.png)
    - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**

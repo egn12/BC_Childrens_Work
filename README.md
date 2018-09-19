@@ -18,11 +18,15 @@ The jupyter notebooks are organized as follows:
       * `Boosting`
 
 **3. Churn (Retention Rates) Analysis (2016/17)**
-   - `EDA`. For example, looking at our recency and frenquency variables:
-   ![Screenshot](output_20_1.png)
-   - `Classification of individuals by rentention rates`
-         ![Screenshot](output_34_0.png)
-   - `Deployment of model to Microsoft Azure` in order to predict rates for 2018
+   - Exploring the dataset relationships (Recency, Frequency and Monetary Value). 
+      *![Screenshot](output_34_0.png)
+   - Classifying individuals by rentention rates: 
+      * `Logistic Regression` 
+      * `Random Forest`
+      * `Boosted Decision Trees`
+   - Feature Importance    
+          ![Screenshot](output_34_0.png)
+   - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC ; blueprint for dashboard created using javascript + D3

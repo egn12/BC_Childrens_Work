@@ -19,13 +19,13 @@ The jupyter notebooks are organized as follows:
 
 **3. Churn (Retention Rates) Analysis (2016/17)**
    - Exploring the dataset relationships (Recency, Frequency and Monetary Value). 
-          ![Screenshot](churn.png){:height="50%" width="50%"}
+          ![Screenshot](churn.png){:height="700px" width="400px"}
    - Classifying individuals by rentention rates: 
       * `Logistic Regression` 
       * `Random Forest`
       * `Boosted Decision Trees`
    - Feature Importance    
-          ![Screenshot](output_34_0.png){:height="50%" width="50%"}
+          ![Screenshot](output_34_0.png)
    - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**

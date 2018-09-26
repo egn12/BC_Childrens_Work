@@ -25,7 +25,7 @@ The jupyter notebooks are organized as follows:
       * `Random Forest`
       * `Boosted Decision Trees`
    - Feature Importance    
-          ![Screenshot](output_34_0.png =10x20)
+          ![Screenshot](output_34_0.png){:height="50%" width="50%"}
    - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**

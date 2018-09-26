@@ -26,6 +26,7 @@ The jupyter notebooks are organized as follows:
       * `Boosted Decision Trees`
    - Feature Importance    
           ![Screenshot](output_34_0.png)
+          <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/Rec_Donations_1.png" width="256" height="256" title="Github Logo">
    - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**

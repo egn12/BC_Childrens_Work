@@ -21,14 +21,12 @@ The jupyter notebooks are organized as follows:
    - Exploring the dataset relationships (Recency, Frequency and Monetary Value). 
    <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/churn.png" width="500" height="300" title="Github Logo">
    <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/Rec_Freq.png" width="700" height="300" title="Github Logo">
-   
+    <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/2016don_Freq_1.png" width="700" height="300" title="Github Logo">  
    - Classifying individuals by rentention rates: 
       * `Logistic Regression` 
       * `Random Forest`
       * `Boosted Decision Trees`
    - Feature Importance    
-          ![Screenshot](output_34_0.png)
-          <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/Rec_Donations_1.png" width="256" height="256" title="Github Logo">
    - Deployment of model to Microsoft Azure in order to predict rates for 2018
 
 **3. Visualizations**

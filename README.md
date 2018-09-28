@@ -31,5 +31,5 @@ The jupyter notebooks are organized as follows:
 
 **3. Visualizations**
   - Heatmap and Chloropleth for donation + demographic data accross BC ; blueprint for dashboard created using javascript + D3
-     <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/Vancouver_heatmap.PNG" width="500" height="300" title="Github Logo">
+     <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/Vancouver_heatmap.PNG" width="800" height="250" title="Github Logo">
      <img src="https://github.com/elbagn/BC_Childrens_Work/blob/master/chloropleth_all_bc_1.PNG" width="500" height="300" title="Github Logo">

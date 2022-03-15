@@ -1,6 +1,6 @@
 # BC Children's Work
 
-Work I'm doing as a Graduate RA for the BC Children's Hospital Foundation Analytics Team. The goal of the Foundation is to enhance the resources provided to the hospital by the provincial government in order to deliver the best care available to children and youth throughout the province. 
+My work as a Graduate RA for the BC Children's Hospital Foundation Analytics Team. The goal of the Foundation is to enhance the resources provided to the hospital by the provincial government in order to deliver the best care available to children and youth throughout the province. 
 
 The jupyter notebooks are organized as follows:
 
